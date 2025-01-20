@@ -54,5 +54,3 @@ JWT_LIFETIME=<30d/1d>
 ```
 
 ---
-
-That’s it! Let me know if you want further tweaks.
